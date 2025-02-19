@@ -1,6 +1,6 @@
 # **Lucas Bozyk Capoani**
 
-[Marília-SP] | [lucasbozyk81@gmail.com] | [Lucas Bozyk] | [GitHub] | [(11)91705-9312]
+Marília-SP | lucasbozyk81@gmail.com | Lucas Bozyk Capoani | GitHub | (11)91705-9312
 
 ---
 
@@ -12,7 +12,7 @@ Sou estudante de Ciências da Computação, com experiência em desenvolvimento 
 ## **Formação Acadêmica**
 
 **Bacharel em Ciências da Computação**  
-[UNIMAR - Universidade de Marília] - [Início 2024] - [Ano de Conclusão 2028]  
+UNIMAR - Universidade de Marília - Início 2024 - Ano de Conclusão 2028  
 Principais disciplinas: Estruturas de Dados, Algoritmos, Desenvolvimento de Software, Engenharia de Software, Banco de Dados, Redes de Computadores, Inteligência Artificial.
 
 ---
@@ -20,7 +20,7 @@ Principais disciplinas: Estruturas de Dados, Algoritmos, Desenvolvimento de Soft
 ## **Experiência Profissional**
 
 ### **Atendente**
-[Concept Café] | [2023] - [2025]  
+Concept Café | 2023 - 2025  
 - Realização de pedidos de açaí e outros produtos no balcão, atendendo às necessidades dos clientes de forma eficiente e amigável.
 - Atendimento direto ao cliente, fornecendo informações sobre os produtos, promovendo as vendas e garantindo a satisfação do cliente.
 - Gestão do estoque, monitorando a reposição de ingredientes e insumos para garantir o funcionamento contínuo da loja.
