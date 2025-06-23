@@ -1,42 +1,21 @@
 # **Lucas Bozyk Capoani**
 
-Marília-SP | lucasbozyk81@gmail.com | Lucas Bozyk Capoani | GitHub | (11)91705-9312
+lucasbozyk81@gmail.com
 
 ---
 
-## **Objetivo**
-Sou estudante de Ciências da Computação, com experiência em desenvolvimento back-end, Python, e tecnologias como Git, GitHub, DevOps, CRUD e Cloud Computing. Busco uma oportunidade na área de Desenvolvimento de Software para aplicar meus conhecimentos e expandir minhas habilidades técnicas.
-
+Atualmente, sou estudante de Ciência da Computação e venho desenvolvendo habilidades sólidas em desenvolvimento back-end, especialmente com Python, além de experiência com Git, GitHub, DevOps, operações CRUD e fundamentos de Cloud Computing. Tenho interesse em estagiar nas áreas de Desenvolvimento de Software, Engenharia ou Ciência de Dados, Inteligência Artificial, DevOps, QA ou Segurança da Informação. Estou em busca de um ambiente que me desafie tecnicamente e permita que eu aplique meus conhecimentos de forma prática, contribuindo com o time e aprendendo continuamente.
 ---
 
 ## **Formação Acadêmica**
 
-**Bacharel em Ciências da Computação**  
-UNIMAR - Universidade de Marília - Início 2024 - Ano de Conclusão 2028  
+**Bacharel em Ciências da Computação**   
 Principais disciplinas: Estruturas de Dados, Algoritmos, Desenvolvimento de Software, Engenharia de Software, Banco de Dados, Redes de Computadores, Inteligência Artificial.
 
----
 
-## **Experiência Profissional**
-
-### **Atendente**
-Concept Café | 2023 - 2025  
-- Realização de pedidos de açaí e outros produtos no balcão, atendendo às necessidades dos clientes de forma eficiente e amigável.
-- Atendimento direto ao cliente, fornecendo informações sobre os produtos, promovendo as vendas e garantindo a satisfação do cliente.
-- Gestão do estoque, monitorando a reposição de ingredientes e insumos para garantir o funcionamento contínuo da loja.
-- Controle do caixa, realizando transações de vendas, emissão de recibos e fechando o caixa no final do expediente.
-- Manutenção da organização e limpeza da área de trabalho e do atendimento, assegurando um ambiente agradável para os clientes.
 
 ### **Interesse em Estágio/Projetos em Desenvolvimento de Software**
   
-- Desenvolvimento de sistemas back-end utilizando Python.
-- Criação de APIs RESTful para integração entre sistemas.
-- Implementação de funcionalidades de CRUD.
-- Utilização de Git/GitHub para versionamento de código e colaboração.
-- Experiência em integração contínua e práticas de DevOps.
-- Trabalhos com Cloud Computing (ex: AWS, Google Cloud, Azure).
-
----
 
 ## **Habilidades Técnicas**
 
@@ -46,26 +25,11 @@ Concept Café | 2023 - 2025
 - **Desenvolvimento de Software**: APIs RESTful, CRUD
 - **DevOps**: Docker, Jenkins, CI/CD
 - **Cloud Computing**: AWS, Google Cloud
-- **Bancos de Dados**: MySQL, PostgreSQL, MongoDB
+- **Bancos de Dados**: MySQL, PostgreSQL,
 
----
 
-## **Projetos Pessoais**
 
-### **[Nome do Projeto]**  
-[Link para o repositório no GitHub]  
-- Descrição breve do projeto, as tecnologias utilizadas e o impacto ou aprendizado adquirido.
 
-### **[Nome do Projeto]**  
-[Link para o repositório no GitHub]  
-- Descrição breve do projeto, as tecnologias utilizadas e o impacto ou aprendizado adquirido.
-
----
-
-## **Certificações**
-
-- **[Nome da Certificação]** - [Nome da Instituição] | [Ano]
-- **[Nome da Certificação]** - [Nome da Instituição] | [Ano]
 
 ---
 
